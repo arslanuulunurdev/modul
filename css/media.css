@@ -1,0 +1,1539 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+  #header-top .header-top--header1 {
+    margin-left: 130px;
+  }
+  #header-top .header-top--header2 {
+    margin-right: 55px;
+  }
+  #header .header--nav2 a {
+    margin: 0 42px 0 -4px;
+  }
+  #hero .hero {
+    margin: 80px 265px;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 10px 0 20px 249px;
+  }
+  #sezon .sezon--naim__imgs img {
+    width: 164px;
+    height: 179px;
+    margin: 0 5px;
+  }
+  #sezon .sezon--naim__imgs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 396px;
+    height: 261px;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 15px;
+    line-height: 10px;
+    margin: 0 61px;
+  }
+  #sezon .sezon--naim__imgs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 498px;
+    height: 167px;
+  }
+  #sezon .sezon--naim h2 {
+    margin: -27px 0 0 0;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 13px;
+    line-height: 10px;
+    margin: 7px 75px 0 61px;
+  }
+  #sezon .sezon--naim h2 {
+    font-size: 31px;
+    margin-top: -85px;
+  }
+  #sezon .sezon--katalog img {
+    width: 558px;
+    height: 462px;
+  }
+  #sezon .sezon--katalog__title h3 {
+    font-size: 21px;
+    line-height: 6px;
+    text-align: center;
+  }
+  #sezon .sezon--katalog__title {
+    top: 282px;
+    left: 212px;
+  }
+  #sezon .sezon--katalog__title button {
+    font-size: 15px;
+    width: 83px;
+    height: 36px;
+  }
+  #sezon .sezon--katalog__title--linia {
+    width: 105px;
+    height: 0;
+    margin: 15px 0;
+  }
+  #costium {
+    padding: 68px 0 0 0;
+  }
+  #costium img {
+    width: 575px;
+    height: 394px;
+    margin-top: -76px;
+  }
+  #costium .costium h3 {
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 12px;
+    margin-left: 44px;
+    margin-top: -51px;
+  }
+  #costium .costium--linia {
+    margin: 20px 0 20px 188px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 75px;
+    font-size: 13px;
+    line-height: 153%;
+  }
+  #costium .costium button {
+    font-size: 13px;
+    text-align: center;
+    width: 196px;
+    height: 29px;
+    margin-left: 163px;
+    margin-top: 12px;
+  }
+  #oclock h1 {
+    font-size: 26px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 475px;
+  }
+  #oclock .oclock--chas img {
+    width: 190px;
+  }
+  #oclock--chas h3 {
+    font-size: 13px;
+    line-height: 6px;
+  }
+  #oclock--chas h4 {
+    font-size: 11px;
+    line-height: 10px;
+  }
+  #brent h1 {
+    font-size: 26px;
+    padding-top: 15px;
+  }
+  #brent .linias {
+    width: 109px;
+    margin: 12px 0 39px 485px;
+  }
+  #brent .brent--title__div1 h2 {
+    border: 3px solid #ffffff;
+    width: 61px;
+    height: 36px;
+    margin: -17px 0 16px 0;
+    font-size: 16px;
+  }
+  #brent .brent--title__div2 h4 {
+    font-size: 17px;
+  }
+  #brent .brent--title__div2 h6 {
+    font-size: 8px;
+    line-height: 10px;
+  }
+  #footer .footer--div1 h1 {
+    font-size: 18px;
+  }
+  #footer .footer--div1 p {
+    width: 231px;
+    font-size: 11px;
+  }
+  #footer .footer--div2 h1 {
+    font-size: 18px;
+  }
+  #footer .footer--div2__title--time {
+    width: 70px;
+    height: 34px;
+    text-align: center;
+  }
+  #footer .footer--div2__title--brent {
+    width: 78px;
+    height: 34px;
+    background: black;
+    text-align: center;
+  }
+  #footer .footer--div2__title--remni {
+    width: 68px;
+    height: 35px;
+  }
+  #footer .footer--div2__title2--idea {
+    width: 146px;
+    height: 36px;
+  }
+  #footer .footer--div2__title2 a {
+    font-size: 10px;
+    padding: 11px 21px;
+  }
+  #footer .footer--div3 h1 {
+    font-size: 19px;
+  }
+  #footer .footer--div3 p {
+    width: 354px;
+    font-size: 12px;
+  }
+  #footer .footer--div3__emaile input {
+    font-size: 13px;
+    width: 183px;
+    height: 38px;
+    padding: 0 5px;
+  }
+  #footer .footer--div3__emaile button {
+    width: 115px;
+    height: 40px;
+    font-size: 13px;
+  }
+  #footer .footer2 h3 {
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 12px;
+    color: #FFFFFF;
+    margin: 10px 0 10px 60px;
+  }
+  #footer .footer2 h2 {
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 16px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    margin: 10px 60px 10px 0;
+  }
+}
+@media (max-width: 1024px) {
+  #header-top .header-top--header1 {
+    margin-left: 130px;
+  }
+  #header-top .header-top--header2 {
+    margin-right: 55px;
+  }
+  #header .header--nav2 a {
+    margin: 0 42px 0 -4px;
+  }
+  #hero .hero {
+    margin: 80px 174px;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 21px 0 23px 220px;
+  }
+  #sezon .sezon--naim__imgs img {
+    width: 121px;
+    height: 161px;
+    margin: 0 3px;
+  }
+  #sezon .sezon--naim__imgs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 396px;
+    height: 261px;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 15px;
+    line-height: 10px;
+    margin: 0 75px;
+  }
+  #sezon .sezon--naim__imgs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 396px;
+    height: 167px;
+  }
+  #sezon .sezon--naim h2 {
+    margin: -27px 0 0 0;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 13px;
+    line-height: 10px;
+    margin: 7px 75px 0 75px;
+  }
+  #sezon .sezon--naim h2 {
+    font-size: 31px;
+    margin-top: -85px;
+  }
+  #sezon .sezon--katalog img {
+    width: 460px;
+    height: 384px;
+  }
+  #sezon .sezon--katalog__title h3 {
+    font-size: 21px;
+    line-height: 6px;
+    text-align: center;
+  }
+  #sezon .sezon--katalog__title {
+    top: 254px;
+    left: 164px;
+  }
+  #sezon .sezon--katalog__title button {
+    font-size: 15px;
+    width: 83px;
+    height: 36px;
+  }
+  #sezon .sezon--katalog__title--linia {
+    width: 105px;
+    height: 0;
+    margin: 15px 0;
+  }
+  #costium {
+    padding: 68px 0 0 0;
+  }
+  #costium img {
+    width: 465px;
+    height: 332px;
+    margin-top: -76px;
+  }
+  #costium .costium h3 {
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 12px;
+    margin-left: 44px;
+    margin-top: -51px;
+  }
+  #costium .costium--linia {
+    margin: 20px 0 20px 188px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 75px;
+    font-size: 13px;
+    line-height: 153%;
+  }
+  #costium .costium button {
+    font-size: 13px;
+    text-align: center;
+    width: 196px;
+    height: 29px;
+    margin-left: 163px;
+    margin-top: 12px;
+  }
+  #oclock h1 {
+    font-size: 26px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 386px;
+  }
+  #oclock .oclock--chas img {
+    width: 190px;
+  }
+  #oclock--chas h3 {
+    font-size: 13px;
+    line-height: 6px;
+  }
+  #oclock--chas h4 {
+    font-size: 11px;
+    line-height: 10px;
+  }
+  #brent h1 {
+    font-size: 26px;
+    padding-top: 15px;
+  }
+  #brent .linias {
+    width: 109px;
+    margin: 12px 0 39px 392px;
+  }
+  #brent .brent--title__div1 h2 {
+    border: 3px solid #ffffff;
+    width: 61px;
+    height: 36px;
+    margin: -17px 0 16px 0;
+    font-size: 16px;
+  }
+  #brent .brent--title__div2 h4 {
+    font-size: 17px;
+  }
+  #brent .brent--title__div2 h6 {
+    font-size: 8px;
+    line-height: 10px;
+  }
+  #footer .footer--div1 h1 {
+    font-size: 18px;
+  }
+  #footer .footer--div1 p {
+    width: 231px;
+    font-size: 11px;
+  }
+  #footer .footer--div2 h1 {
+    font-size: 18px;
+  }
+  #footer .footer--div2__title--time {
+    width: 70px;
+    height: 34px;
+    text-align: center;
+  }
+  #footer .footer--div2__title--brent {
+    width: 78px;
+    height: 34px;
+    background: black;
+    text-align: center;
+  }
+  #footer .footer--div2__title--remni {
+    width: 68px;
+    height: 35px;
+  }
+  #footer .footer--div2__title2--idea {
+    width: 146px;
+    height: 36px;
+  }
+  #footer .footer--div2__title2 a {
+    font-size: 10px;
+    padding: 11px 21px;
+  }
+  #footer .footer--div3 h1 {
+    font-size: 19px;
+  }
+  #footer .footer--div3 p {
+    width: 354px;
+    font-size: 12px;
+  }
+  #footer .footer--div3__emaile input {
+    font-size: 13px;
+    width: 183px;
+    height: 38px;
+  }
+  #footer .footer--div3__emaile button {
+    width: 115px;
+    height: 40px;
+    font-size: 13px;
+  }
+  #footer .footer2 h3 {
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 12px;
+    color: #FFFFFF;
+    margin: 10px 0 10px 60px;
+  }
+  #footer .footer2 h2 {
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 16px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    margin: 10px 60px 10px 0;
+  }
+}
+@media (max-width: 992px) {
+  #header-top .header-top--header1 {
+    margin-left: 130px;
+  }
+  #header-top .header-top--header2 {
+    margin-right: 55px;
+  }
+  #header .header--nav2 a {
+    margin: 0 42px 0 -4px;
+  }
+  #hero .hero {
+    margin: 80px 174px;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 21px 0 23px 220px;
+  }
+  #sezon .sezon--naim__imgs img {
+    width: 121px;
+    height: 161px;
+    margin: 0 3px;
+  }
+  #sezon .sezon--naim__imgs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 396px;
+    height: 261px;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 15px;
+    line-height: 10px;
+    margin: 0 75px;
+  }
+  #sezon .sezon--naim__imgs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 396px;
+    height: 167px;
+  }
+  #sezon .sezon--naim h2 {
+    margin: -27px 0 0 0;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 13px;
+    line-height: 10px;
+    margin: 7px 75px 0 75px;
+  }
+  #sezon .sezon--naim h2 {
+    font-size: 31px;
+    margin-top: -85px;
+  }
+  #sezon .sezon--katalog img {
+    width: 460px;
+    height: 384px;
+  }
+  #sezon .sezon--katalog__title h3 {
+    font-size: 21px;
+    line-height: 6px;
+    text-align: center;
+  }
+  #sezon .sezon--katalog__title {
+    top: 254px;
+    left: 164px;
+  }
+  #sezon .sezon--katalog__title button {
+    font-size: 15px;
+    width: 83px;
+    height: 36px;
+  }
+  #sezon .sezon--katalog__title--linia {
+    width: 105px;
+    height: 0;
+    margin: 15px 0;
+  }
+  #costium {
+    padding: 68px 0 0 0;
+  }
+  #costium img {
+    width: 465px;
+    height: 332px;
+    margin-top: -76px;
+  }
+  #costium .costium h3 {
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 12px;
+    margin-left: 44px;
+    margin-top: -51px;
+  }
+  #costium .costium--linia {
+    margin: 20px 0 20px 188px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 75px;
+    font-size: 13px;
+    line-height: 153%;
+  }
+  #costium .costium button {
+    font-size: 13px;
+    text-align: center;
+    width: 196px;
+    height: 29px;
+    margin-left: 163px;
+    margin-top: 12px;
+  }
+  #oclock h1 {
+    font-size: 26px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 386px;
+  }
+  #oclock .oclock--chas img {
+    width: 190px;
+  }
+  #oclock--chas h3 {
+    font-size: 13px;
+    line-height: 6px;
+  }
+  #oclock--chas h4 {
+    font-size: 11px;
+    line-height: 10px;
+  }
+  #brent h1 {
+    font-size: 26px;
+    padding-top: 15px;
+  }
+  #brent .linias {
+    width: 109px;
+    margin: 12px 0 39px 392px;
+  }
+  #brent .brent--title__div1 h2 {
+    border: 3px solid #ffffff;
+    width: 61px;
+    height: 36px;
+    margin: -17px 0 16px 0;
+    font-size: 16px;
+  }
+  #brent .brent--title__div2 h4 {
+    font-size: 17px;
+  }
+  #brent .brent--title__div2 h6 {
+    font-size: 8px;
+    line-height: 10px;
+  }
+  #footer .footer--div1 h1 {
+    font-size: 18px;
+  }
+  #footer .footer--div1 p {
+    width: 231px;
+    font-size: 11px;
+  }
+  #footer .footer--div2 h1 {
+    font-size: 18px;
+  }
+  #footer .footer--div2__title--time {
+    width: 70px;
+    height: 34px;
+    text-align: center;
+  }
+  #footer .footer--div2__title--brent {
+    width: 78px;
+    height: 34px;
+    background: black;
+    text-align: center;
+  }
+  #footer .footer--div2__title--remni {
+    width: 68px;
+    height: 35px;
+  }
+  #footer .footer--div2__title2--idea {
+    width: 146px;
+    height: 36px;
+  }
+  #footer .footer--div2__title2 a {
+    font-size: 10px;
+    padding: 11px 21px;
+  }
+  #footer .footer--div3 h1 {
+    font-size: 19px;
+  }
+  #footer .footer--div3 p {
+    width: 354px;
+    font-size: 12px;
+  }
+  #footer .footer--div3__emaile input {
+    font-size: 13px;
+    width: 183px;
+    height: 38px;
+  }
+  #footer .footer--div3__emaile button {
+    width: 115px;
+    height: 40px;
+    font-size: 13px;
+  }
+  #footer .footer2 h3 {
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 12px;
+    color: #FFFFFF;
+    margin: 10px 0 10px 60px;
+  }
+  #footer .footer2 h2 {
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 16px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    margin: 10px 60px 10px 0;
+  }
+}
+@media (max-width: 768px) {
+  #header-top .header-top--header1 {
+    margin-left: 71px;
+  }
+  #header .header {
+    padding: 6px 0;
+  }
+  #header .header img {
+    margin-left: -189px;
+  }
+  #header .header--nav {
+    display: none;
+  }
+  #header .header--nav2 {
+    margin-right: -263px;
+  }
+  #hero .hero--block {
+    width: 239px;
+    height: 244px;
+    border: 3px solid #ffffff;
+    margin: 0 133px;
+  }
+  #hero .hero {
+    margin: 80px 116px;
+  }
+  #hero .hero p {
+    width: 514px;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    margin: 23px 0;
+  }
+  #sezon .sezon {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 139px;
+    margin-left: 80px;
+  }
+  #sezon .sezon--naim h2 {
+    font-size: 32px;
+    margin-top: -123px;
+    margin-left: 8px;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 17px 0 33px 253px;
+  }
+  #sezon .sezon--naim__imgs img {
+    width: 120px;
+    height: 160px;
+    margin: 0 8px;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 416px;
+    height: 167px;
+    margin: 54px 101px;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 20px;
+    line-height: 16px;
+    margin: 11px 0;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 16px;
+    line-height: 14px;
+    margin: 8px 0 20px 0;
+  }
+  #sezon .sezon--katalog img {
+    width: 628px;
+    height: 519px;
+  }
+  #sezon .sezon--katalog__title {
+    top: 313px;
+    left: 223px;
+  }
+  #sezon .sezon--katalog__title h3 {
+    font-size: 27px;
+    line-height: 21px;
+    text-align: center;
+  }
+  #sezon .sezon--katalog__title button {
+    font-size: 22px;
+    width: 106px;
+    height: 44px;
+  }
+  #sezon .sezon--katalog__title--linia {
+    width: 133px;
+    height: 0;
+    margin: 15px 0;
+  }
+  #costium {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 173px;
+  }
+  #costium img {
+    width: 669px;
+    height: 425px;
+    margin-top: -76px;
+    margin-left: 23px;
+  }
+  #costium .costium {
+    margin-right: 31px;
+    margin-top: 77px;
+  }
+  #costium .costium h3 {
+    font-size: 27px;
+  }
+  #costium .costium--linia {
+    margin: 24px 0 20px 299px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 73px;
+    font-size: 14px;
+    width: 616px;
+  }
+  #costium .costium button {
+    font-size: 16px;
+    text-align: center;
+    width: 220px;
+    height: 40px;
+    margin-left: 259px;
+    margin-top: 12px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 280px;
+  }
+  #oclock .oclock--chas img {
+    width: 287px;
+    height: 330px;
+    margin: 20px 30px 20px 20px;
+  }
+  #oclock .oclock--chas h3 {
+    font-size: 19px;
+    margin-top: -3px;
+    margin-left: 19px;
+  }
+  #oclock .oclock--chas h4 {
+    font-size: 16px;
+    margin: 0 0 0 20px;
+  }
+  #brent .linias {
+    width: 110px;
+    margin: 12px 0 39px 291px;
+  }
+  #brent .brent {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 0 30px 0;
+  }
+  #brent .brent--title {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+  }
+  #brent .brent--title__div1 h2 {
+    border: 4px solid #ffffff;
+    width: 84px;
+    height: 42px;
+    margin: -17px 0 16px 0;
+    font-size: 24px;
+  }
+  #brent .brent--title__div2 h4 {
+    font-size: 25px;
+  }
+  #brent .brent--title__div2 h6 {
+    font-size: 11px;
+    line-height: 15px;
+  }
+  #brent .linias {
+    width: 110px;
+    margin: 12px 0 39px 319px;
+  }
+  #footer .footer--div1 p {
+    width: 699px;
+    font-size: 14px;
+  }
+  #footer .footer2 h3 {
+    font-size: 10px;
+  }
+  #footer .footer2 h2 {
+    font-size: 11px;
+  }
+}
+@media (max-width: 576px) {
+  #header-top .header-top--header1 {
+    margin-left: 46px;
+  }
+  #header-top .header-top--header1 a {
+    font-size: 8px;
+  }
+  #header-top .header-top--header1 h3 {
+    font-size: 8px;
+  }
+  #header-top .header-top--header2 {
+    margin-right: 22px;
+  }
+  #header-top .header-top--header2 h2 {
+    font-size: 8px;
+  }
+  #hero .hero {
+    margin: 80px 64px;
+  }
+  #hero .hero--block {
+    width: 196px;
+    height: 204px;
+    border: 3px solid #ffffff;
+    margin: 0 133px;
+  }
+  #hero .hero img {
+    width: 159px;
+    height: 86px;
+  }
+  #hero .hero__linia {
+    width: 164px;
+    height: 0;
+    border: 2px solid #ffffff;
+    margin: 5px 0 10px 0;
+  }
+  #hero .hero p {
+    width: 465px;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    margin: 23px 0;
+  }
+  #sezon .sezon--naim__imgs img {
+    width: 126px;
+    height: 178px;
+    margin: 0 6px;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 416px;
+    height: 167px;
+    margin: 54px 4px;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 17px 0 33px 151px;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 18px;
+    margin: 3px 0 0 -2px;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 16px;
+    margin: 8px 0 20px 0;
+  }
+  #sezon .sezon--naim h2 {
+    font-size: 30px;
+    margin-top: -123px;
+  }
+  #sezon .sezon--katalog img {
+    width: 484px;
+    height: 425px;
+    margin-left: -27px;
+  }
+  #sezon .sezon--katalog__title {
+    top: 235px;
+    left: 98px;
+  }
+  #costium img {
+    width: 486px;
+    height: 330px;
+    margin-top: -159px;
+    margin-left: 16px;
+  }
+  #costium .costium {
+    margin-right: 57px;
+    margin-top: 77px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 72px;
+    font-size: 15px;
+    width: 380px;
+  }
+  #costium .costium--linia {
+    margin: 23px 0 20px 188px;
+  }
+  #costium .costium button {
+    font-size: 16px;
+    text-align: center;
+    width: 220px;
+    height: 40px;
+    margin-left: 151px;
+    margin-top: 12px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 197px;
+  }
+  #oclock .oclock--chas img {
+    width: 206px;
+    height: 260px;
+    margin: 20px 30px 20px 20px;
+  }
+  #brent .linias {
+    width: 110px;
+    margin: 12px 0 39px 212px;
+  }
+  #brent .brent--title__div1 h2 {
+    border: 4px solid #ffffff;
+    width: 84px;
+    height: 42px;
+    margin: -17px 0 16px 0;
+    font-size: 24px;
+  }
+  #brent .brent--title__div2 h4 {
+    font-size: 22px;
+  }
+  #footer .footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 50px 53px;
+  }
+  #footer .footer--div1 p {
+    width: 458px;
+    font-size: 14px;
+  }
+  #footer .footer--div2__title--time {
+    margin: 20px 0 10px 0;
+  }
+  #footer .footer--div3 p {
+    width: 354px;
+    font-size: 13px;
+  }
+}
+@media (max-width: 451px) {
+  #hero .hero {
+    margin: 71px -2px;
+  }
+  #hero .hero img {
+    width: 139px;
+    height: 86px;
+  }
+  #hero .hero--block__linia {
+    width: 154px;
+    height: 0;
+    border: 2px solid #ffffff;
+    margin: 5px 0 10px 0;
+  }
+  #hero .hero--block h3 {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    color: #ffffff;
+  }
+  #hero .hero p {
+    width: 374px;
+    font-size: 12px;
+    text-align: center;
+    margin: 23px 39px;
+  }
+  #header .header img {
+    margin-left: -121px;
+  }
+  #header .header--nav2 {
+    margin-right: -184px;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 376px;
+    height: 167px;
+    margin: 54px -62px;
+    flex-wrap: wrap;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 400px;
+    height: 167px;
+    margin: 54px -62px;
+    flex-wrap: wrap;
+  }
+  #sezon .sezon--naim img {
+    width: 212px;
+    height: 249px;
+    margin: 11px 6px;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 18px;
+    margin: 0 0 0 -29px;
+    padding: 622px 0 0 0;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 16px;
+    margin: 8px 0 20px -28px;
+  }
+  #sezon .sezon--naim h2 {
+    font-size: 26px;
+    margin-top: -123px;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 416px;
+    height: 167px;
+    margin: 54px -62px;
+    flex-wrap: wrap;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 17px 0 33px 86px;
+  }
+  #sezon .sezon--katalog img {
+    width: 450px;
+    height: 426px;
+    margin-left: -80px;
+  }
+  #sezon .sezon--katalog__title {
+    top: 235px;
+    left: 36px;
+  }
+  #costium img {
+    width: 449px;
+    height: 313px;
+    margin-top: -199px;
+    margin-left: 0;
+  }
+  #costium .costium {
+    margin-right: 74px;
+    margin-top: 77px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 140px;
+  }
+  #oclock .oclock--chas h3 {
+    font-size: 18px;
+    margin-top: -3px;
+    margin-left: 19px;
+  }
+  #brent .linias {
+    width: 110px;
+    margin: 12px 0 39px 166px;
+  }
+  #footer .footer--div1 p {
+    width: 388px;
+    font-size: 13px;
+  }
+}
+@media (max-width: 400px) {
+  #header-top .header-top--header1 a {
+    font-size: 4px;
+  }
+  #hero .hero {
+    margin: 71px -2px;
+  }
+  #hero .hero--block {
+    width: 184px;
+    height: 191px;
+    border: 3px solid #ffffff;
+    margin: 0 103px;
+  }
+  #hero .hero p {
+    width: 303px;
+    font-size: 11px;
+    text-align: center;
+    margin: 23px 39px;
+  }
+  #header .header img {
+    margin-left: -126px;
+    width: 79px;
+  }
+  #header .header--nav2 {
+    margin-right: -184px;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 416px;
+    height: 167px;
+    margin: 54px 6px;
+    flex-wrap: wrap;
+  }
+  #sezon .sezon--naim__imgs img {
+    width: 212px;
+    height: 249px;
+    margin: 11px 6px;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 18px;
+    margin: 0 0 0 -29px;
+    padding: 622px 0 0 0;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 16px;
+    margin: 4px 0 14px -29px;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 375px;
+    height: 167px;
+    margin: 54px -62px;
+    flex-wrap: wrap;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 17px 0 33px 66px;
+  }
+  #sezon .sezon--katalog img {
+    width: 399px;
+    height: 426px;
+    margin-left: -80px;
+  }
+  #sezon .sezon--katalog__title {
+    top: 232px;
+    left: 12px;
+  }
+  #sezon .sezon--katalog__title h3 {
+    font-size: 22px;
+    line-height: 13px;
+    text-align: center;
+  }
+  #sezon .sezon--katalog__title button {
+    font-size: 17px;
+    width: 98px;
+    height: 34px;
+  }
+  #costium img {
+    width: 399px;
+    height: 292px;
+    margin-top: -199px;
+    margin-left: 0;
+  }
+  #costium .costium {
+    margin-right: 74px;
+    margin-top: 77px;
+  }
+  #costium .costium h3 {
+    font-size: 20px;
+    margin-left: 60px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 72px;
+    font-size: 11px;
+    width: 363px;
+  }
+  #costium .costium button {
+    font-size: 11px;
+    text-align: center;
+    width: 153px;
+    height: 31px;
+    margin-left: 184px;
+    margin-top: 12px;
+  }
+  #oclock h1 {
+    font-size: 19px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 121px;
+  }
+  #oclock .oclock--chas h3 {
+    font-size: 18px;
+    margin-top: -11px;
+    margin-left: 19px;
+  }
+  #oclock .oclock--chas h4 {
+    font-size: 16px;
+    margin: -9px 0 0 20px;
+  }
+  #brent h1 {
+    font-size: 23px;
+    padding-top: 11px;
+  }
+  #brent .linias {
+    width: 100px;
+    margin: 12px 0 39px 134px;
+  }
+  #footer .footer--div1 p {
+    width: 301px;
+    font-size: 13px;
+  }
+  #footer .footer--div3 p {
+    width: 345px;
+    font-size: 13px;
+  }
+}
+@media (max-width: 376px) {
+  #footer .footer--div1 p {
+    width: 254px;
+    font-size: 10px;
+  }
+  #footer .footer--div1 h1 {
+    font-size: 16px;
+  }
+  #footer .footer--div2 h1 {
+    font-size: 16px;
+  }
+  #footer .footer--div3 h1 {
+    font-size: 16px;
+    margin: 12px 0;
+  }
+  #footer .footer--div3 p {
+    width: 298px;
+    font-size: 11px;
+  }
+  #brent .linias {
+    width: 110px;
+    margin: 11px 0 39px 129px;
+  }
+  #brent h1 {
+    font-size: 22px;
+    padding-top: 15px;
+  }
+  #oclock .linias {
+    margin: 23px 0 27px 116px;
+  }
+  #oclock h1 {
+    font-size: 23px;
+  }
+  #costium img {
+    width: 374px;
+    height: 256px;
+    margin-top: -199px;
+    margin-left: 0;
+  }
+  #costium .costium {
+    margin-left: -6px;
+    margin-top: 77px;
+  }
+  #costium .costium button {
+    font-size: 10px;
+    text-align: center;
+    width: 136px;
+    height: 30px;
+    margin-left: 171px;
+    margin-top: 12px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 81px;
+    font-size: 14px;
+    width: 314px;
+  }
+  #costium .costium h3 {
+    font-size: 21px;
+  }
+  #costium .costium--linia {
+    margin: 23px 0 20px 161px;
+  }
+  #sezon .sezon--katalog img {
+    width: 374px;
+    height: 463px;
+    margin-left: -79px;
+  }
+  #sezon .sezon--katalog__title {
+    top: 238px;
+    left: 28px;
+  }
+  #sezon .sezon--katalog__title h3 {
+    font-size: 19px;
+  }
+  #sezon .sezon--katalog__title button {
+    font-size: 14px;
+    width: 85px;
+    height: 28px;
+  }
+  #sezon .sezon--katalog__title--linia {
+    width: 105px;
+    height: 0;
+    margin: 9px 0;
+  }
+  #hero .hero {
+    margin-left: -53px;
+  }
+  #hero .hero p {
+    width: 339px;
+    font-size: 11px;
+    text-align: center;
+    margin: 23px 0 0 62px;
+  }
+  #hero .hero--block {
+    width: 153px;
+    height: 153px;
+    border: 3px solid #ffffff;
+    margin: 0 0 0 156px;
+  }
+  #hero .hero--block img {
+    width: 122px;
+    height: 55px;
+  }
+  #hero .hero--block__linia {
+    width: 133px;
+    height: 0;
+    border: 1px solid #ffffff;
+    margin: 3px 0 9px 0;
+  }
+  #hero .hero--block h3 {
+    font-size: 15px;
+    text-align: center;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 357px;
+    height: 167px;
+    margin: 54px -62px;
+    flex-wrap: wrap;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 17px 0 33px 51px;
+  }
+  #header-top .header-top--header1 h3 {
+    font-size: 6px;
+  }
+  #header .header img {
+    width: 64px;
+    margin-left: -121px;
+  }
+}
+@media (max-width: 320px) {
+  #header-top .header-top--header1 a {
+    font-size: 4px;
+  }
+  #header-top .header-top--header1 h3 {
+    font-size: 4px;
+  }
+  #header-top .header-top--header2 h2 {
+    font-size: 7px;
+  }
+  #header .header img {
+    width: 58px;
+    margin-left: -98px;
+  }
+  #header .header--nav2 {
+    margin-right: -130px;
+  }
+  #header .header--nav2 a {
+    margin: 0 25px 0 -4px;
+  }
+  #hero .hero {
+    margin-left: -72px;
+  }
+  #hero .hero--block {
+    width: 142px;
+    height: 139px;
+    border: 3px solid #ffffff;
+    margin: 0 0 0 156px;
+  }
+  #hero .hero p {
+    width: 271px;
+    font-size: 10px;
+    text-align: center;
+    margin: 23px 0 0 90px;
+  }
+  #sezon .sezon {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 139px;
+    margin-left: 69px;
+  }
+  #sezon .sezon--katalog img {
+    width: 319px;
+    height: 460px;
+    margin-left: -68px;
+    margin-top: -65px;
+  }
+  #sezon .sezon--katalog__title {
+    top: 188px;
+    left: 2px;
+  }
+  #sezon .sezon--naim h2 {
+    font-size: 25px;
+    margin-top: -123px;
+  }
+  #sezon .sezon--naim__linia {
+    margin: 9px 0 20px 40px;
+    width: 100px;
+  }
+  #sezon .sezon--naim__imgs {
+    width: 303px;
+    height: 159px;
+    margin: 27px -62px;
+    flex-wrap: wrap;
+  }
+  #sezon .sezon--naim h4 {
+    font-size: 15px;
+    margin: 22px 0 9px -16px;
+    padding: 633px 0 0 0;
+  }
+  #sezon .sezon--naim h6 {
+    font-size: 13px;
+    margin: -9px 0px 1px -17px;
+  }
+  #costium img {
+    width: 320px;
+    height: 218px;
+    margin-top: -223px;
+    margin-left: 0;
+  }
+  #costium .costium {
+    margin-left: -29px;
+    margin-top: 77px;
+  }
+  #costium .costium p {
+    text-align: center;
+    margin-left: 132px;
+    font-size: 12px;
+    width: 249px;
+  }
+  #costium .costium button {
+    font-size: 9px;
+    text-align: center;
+    width: 122px;
+    height: 26px;
+    margin-left: 185px;
+    margin-top: 12px;
+  }
+  #brent .brent--title__div1 h2 {
+    border: 2px solid #ffffff;
+    width: 63px;
+    height: 36px;
+    margin: -17px 0 16px 0;
+    font-size: 19px;
+  }
+  #brent .brent--title__div2 h4 {
+    font-size: 18px;
+  }
+  #brent .brent--title__div2 h6 {
+    font-size: 9px;
+    margin: 0 -1px 4px 0px;
+  }
+  #brent .linias {
+    width: 110px;
+    margin: 11px 0 39px 105px;
+  }
+  #brent .linias {
+    width: 87px;
+    margin: 11px 0 39px 105px;
+  }
+  #oclock h1 {
+    font-size: 18px;
+    margin-top: -8px;
+  }
+  #oclock .oclock--chas h3 {
+    font-size: 14px;
+    margin-top: -18px;
+    margin-left: 19px;
+  }
+  #oclock .oclock--chas h4 {
+    font-size: 12px;
+    margin: -12px 0 0px 20px;
+  }
+  #oclock .linias {
+    margin: 0 0 -11px 84px;
+  }
+  #costium .costium button {
+    font-size: 12px;
+    text-align: center;
+    width: 176px;
+    height: 34px;
+    margin-left: 161px;
+    margin-top: 12px;
+  }
+  #costium .costium--linia {
+    margin: 23px 0 20px 190px;
+  }
+  #costium .costium h3 {
+    font-size: 19px;
+    margin-left: 117px;
+  }
+  #footer .footer--div3 p {
+    width: 267px;
+    font-size: 11px;
+  }
+  #footer .footer--div3 p {
+    width: 242px;
+    font-size: 9px;
+  }
+  #footer .footer--div3__emaile button {
+    width: 93px;
+    height: 30px;
+    font-size: 8px;
+    margin-left: -4px;
+    padding-top: 4px;
+  }
+  #footer .footer--div3__emaile input {
+    font-size: 13px;
+    width: 127px;
+    height: 28px;
+    margin-left: 0;
+  }
+  #footer .footer--div2__title2--idea {
+    width: 146px;
+    height: 36px;
+    font-size: 11px;
+    margin: 11px 0;
+  }
+  #footer .footer--div2__title--remni {
+    width: 75px;
+    height: 35px;
+    margin: 0 0 0 -1px;
+  }
+  #footer .footer2 h2 {
+    font-size: 7px;
+  }
+  #footer .footer2 h3 {
+    font-size: 7px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
